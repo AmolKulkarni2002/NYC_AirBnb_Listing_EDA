@@ -94,7 +94,11 @@ The dataset contains **20,770 entries and 22 features**, including:
    - Manage pricing effectively to compete within the borough's market.
 
 ---
+## Dashboard
+<img width="1277" height="717" alt="AirBnb SS" src="https://github.com/user-attachments/assets/691f157c-97cf-4a74-9b81-8aec0c28a7d4" />
 
+
+---
 ## Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
 

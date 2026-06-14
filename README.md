@@ -1,6 +1,8 @@
 ### Airbnb Listings EDA Project: New York 2024  
 
 ---
+<img width="800" height="250" alt="Airbnb_Logo_1" src="https://github.com/user-attachments/assets/cf1143a1-30fd-46e6-af20-e976b84e1f13" />
+
 
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
